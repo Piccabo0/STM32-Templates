@@ -1,0 +1,17 @@
+OBJ/
+USER/Objects/
+USER/Listings/
+*.uvguix.*
+*.build_log.htm
+*.dep
+*.lnp
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.sct
+*.iex
